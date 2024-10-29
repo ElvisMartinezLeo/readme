@@ -1,0 +1,20 @@
+h1 {
+    background-color: blue;
+    display: inline-block;
+    word-break: break-all;
+}
+
+li {
+    background-color: blueviolet;
+    display: inline-block;
+    font-display: 10px;
+    color-scheme: 10px;
+}
+
+footer {
+    background-color: darkgreen;
+    width: 100px;
+    height: max-content;
+    padding: 10cqmax;
+    transform: matrix3d(34px);
+}
